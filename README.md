@@ -1,5 +1,7 @@
 # krishna-leela
 The magical moments
 
-#tricks
-that works
+# tricks
+To entertain
+
+import mangal
