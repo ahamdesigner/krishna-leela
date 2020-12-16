@@ -1,7 +1,8 @@
-# krishna-leela
-The magical moments
+# कृष्णः लीला
+आक्षेपिणी
+मायामय क्षण
 
-# tricks
-To entertain
+# कुचेष्टा
+विनोदयति उपयोगिन्
 
-import mangal
+गुर्वर्थत्व श्वस्ति मङ्गलं
